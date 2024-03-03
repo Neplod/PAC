@@ -1,0 +1,17 @@
+Hi welcome to PAC, I'm Adyp, and I'll be your best friend in this program. Now I'm going to show you how to use this tool. You can also read this instructions in the instructions.txt file.
+First, you can see a bar on the left side of the screen with 3 buttons. The first one is Home, which opens this menu, then the second one is the Skills one, to open the skill menu, and the third one is the Personal Assistant.
+In the Skill menu you can see much things. First, the skills, these are boxes which have 3 Entries and 3 Buttons, the first entry is the skill name, only use normal caracters in lowercase letters; the second entry is the commands entry, each line is a command that you'll use to activate the code; and the third one is the code entry, which is the code that will be executed when you call the skill. Then the 3 buttons are for: Saving the skill (In a txt file), Exporting the skill (In a Python file) and Deleting the skill.
+Also in the bottom you can see another box with 2 things: a button to create skills, and a text entry with a button to install libraries, like the command `pip install <module>`.
+
+In the skill editor there're some fundamental special functions you need to know.
+The `pa` functions. These are the Personal Assistant functions like: `pa.say(text)` or `pa.force_speak(text)`, to make the assistant say something, or the `pa.force_listen()` that makes the Assistant listen to something and returns an string.
+Then we've the `functions` or `Functions` functions, these can be called in both ways. Now there is only 1 function, the `functions.import_lib(library:txt)` or `functions.import_module(module:str)` which return a library, you can save it in a variable and install libraries in the bottom of the skil menu.
+Also, remember to save your skills.
+
+All skills are saved in the folder skills/skillset, so you can edit any errors there.
+
+Finally we've the Personal Assistant menu, which have only 1 button to initializate the Personal Assistant, sadly all things are printed in the console, but we're doing some things so you can execute de PA in the APP without looking the console.
+
+We know there're a lot of errors but this is only an Alpha. We've a lot of things to add and fix. Also you can comment us any question, bug or idea for the APP to our team formed by me (Adyp), Neplod (discord: Neplod) and Moderador01 (discord: moderador2.0_69872)
+
+Thank you for using PAC, and have fun.

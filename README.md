@@ -12,4 +12,5 @@ PAC is a program where you can create easily and for free your own Personal Assi
   [ ] Linux / Mac: `python3 -m venv .venv`
 6. Activate the virtual enviroment.
 7. Install the requeriments with `pip install -r requeriments.txt`
-8. Open the app.py file and run it.
+8. Install a VOSK model, unzip it, rename the folder to `model` and put it in your PAC folder.
+9. Open the app.py file and run it.

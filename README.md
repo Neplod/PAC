@@ -10,6 +10,7 @@ PAC is a program where you can create easily and for free your own Personal Assi
 5. Create a virtual enviroment with:
 
   [ ] Windows: `python -m venv .venv`
+
   [ ] Linux / Mac: `python3 -m venv .venv`
 
 7. Activate the virtual enviroment.
